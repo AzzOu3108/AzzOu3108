@@ -32,9 +32,14 @@
 
 #
 
-### 📊 Stats
+### 📊 GitHub Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzzOu3108&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AzzOu3108&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzzOu3108&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
 
 #
 
