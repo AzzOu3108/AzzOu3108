@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Azzeddine!
- I’m a passionate web developer specializing in the MERN stack. I practice like I’ve never won and perform like I’ve never lost, constantly iterating and improving my skills. Together, we can debug our way to success!
+ I’m a passionate full stack web developer. I practice like I’ve never won and perform like I’ve never lost, constantly iterating and improving my skills. Together, we can debug our way to success!
 
 ---
  
@@ -25,8 +25,11 @@
 <img align="left" alt="Figma" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img align="left" alt="Figma" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" />
 <img align="left" alt="Figma" width="33px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" />
-
-
+<img align="left" alt="Nestjs" width="28px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+<img align="left" alt="Nextjs" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Postgres" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Postgres" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />  
+<img align="left" alt="Typescript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
 <br>
 <br>
 
